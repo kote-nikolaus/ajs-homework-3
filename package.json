@@ -1,0 +1,19 @@
+{
+  "name": "@kote-nikolaus/ajs-homework-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b(dist/index.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kote-nikolaus/ajs-homework-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kote-nikolaus/ajs-homework-3/issues"
+  },
+  "homepage": "https://github.com/kote-nikolaus/ajs-homework-3#readme"
+}
